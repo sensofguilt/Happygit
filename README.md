@@ -1,3 +1,3 @@
 # Happygit
 Repository for testing my Git/GitHub setup
- THis is the first change on my local computer, via Gith Bash Terminal
+ This is the first change on my local computer, via Gith Bash Terminal
